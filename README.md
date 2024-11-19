@@ -14,3 +14,4 @@ Check out the live app: [Pokémon API Web App](https://joseomolon.github.io/API_
 - 🎨 **Responsive Design**: Works seamlessly on desktop and mobile devices.
 
 ---
+## 🛠️ Technologies Used
