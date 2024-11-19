@@ -29,3 +29,12 @@ Check out the live app: [Pokémon API Web App](https://joseomolon.github.io/API_
 
 ---
 ## 📂 Project Structure
+```plaintext
+API_POKI/
+├── index.html        # Main HTML file
+├── css/              # Stylesheets
+│   └── styles.css    # Main CSS file
+├── js/               # JavaScript files
+│   └── app.js        # Core functionality
+├── assets/           # Images and other assets (if any)
+└── README.md         # Project documentation
