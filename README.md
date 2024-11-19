@@ -22,3 +22,9 @@ Check out the live app: [Pokémon API Web App](https://joseomolon.github.io/API_
 - **PokéAPI**: The free and open API used to fetch Pokémon data.
 
 ---
+## 📖 How to Use
+1. Visit the live app link above.
+2. Browse the list of Pokémon or use the search bar to find a specific Pokémon.
+3. Click on a Pokémon to view its detailed information.
+
+---
