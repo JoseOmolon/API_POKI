@@ -28,3 +28,4 @@ Check out the live app: [Pokémon API Web App](https://joseomolon.github.io/API_
 3. Click on a Pokémon to view its detailed information.
 
 ---
+## 📂 Project Structure
