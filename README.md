@@ -13,7 +13,7 @@ Check out the live app: [Pokémon API Web App](https://joseomolon.github.io/API_
 - 🛡️ **Detailed Info**: Click on a Pokémon to see its stats, abilities, and other information.
 - 🎨 **Responsive Design**: Works seamlessly on desktop and mobile devices.
 - 🎮 **Nintendo Gameboy theme**: To bring back that 90s nostalgia for millenials like me.
-break
+
 ---
 ## 🛠️ Technologies Used
 - **HTML5**: For structuring the web content.
