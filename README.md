@@ -8,7 +8,7 @@ Check out the live app: [Pokémon API Web App](https://joseomolon.github.io/API_
 
 
 ---
-## 🚀 Features 12
+## 🚀 Features 1
 - 📋 **Pokémon List**: View a paginated list of Pokémon.
 - 🔍 **Search Functionality**: Find your favorite Pokémon by name.
 - 🛡️ **Detailed Info**: Click on a Pokémon to see its stats, abilities, and other information.
