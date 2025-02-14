@@ -2,7 +2,7 @@
 
 Welcome to the **Pokémon API Web App**! This project is a simple, interactive web application that allows users to explore Pokémon data fetched from a public Pokémon API. It is features a "Nintendo Gameboy" theme to bring back that 90s nostalgia.
 
-## 🌐 Live Demo 12
+## 🌐 Live Demo 1
 
 Check out the live app: [Pokémon API Web App](https://joseomolon.github.io/API_POKI/)
 
