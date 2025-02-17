@@ -8,7 +8,7 @@ Check out the live app: [Pokémon API Web App](https://joseomolon.github.io/API_
 
 
 ---
-## 🚀 Features  12345
+## 🚀 Features  1234
 
 - 📋 **Pokémon List**: View a paginated list of Pokémon.
 - 🔍 **Search Functionality**: Find your favorite Pokémon by name.
@@ -19,7 +19,7 @@ Check out the live app: [Pokémon API Web App](https://joseomolon.github.io/API_
 ---
 ## 🛠️ Technologies Used
 - **HTML5**: For structuring the web content.
-- **CSS3**: For styling and layout.
+- **CSS3**: For styling and layout.ī
 - **JavaScript (ES6)**: For functionality and API integration.
 - **PokéAPI**: The free and open API used to fetch Pokémon data.
 
