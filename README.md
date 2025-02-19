@@ -1,4 +1,4 @@
-## Pokémon API Web App 1234
+## Pokémon API Web App 123
  
 Welcome to the **Pokémon API Web App**! This project is a simple, interactive web application that allows users to explore Pokémon data fetched from a public Pokémon API. It is features a "Nintendo Gameboy" theme to bring back that 90s nostalgia.
 
